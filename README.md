@@ -5,14 +5,14 @@ Information for Qiskit Workshop (18-20 May 2020) jointly organised by NUS QEP (Q
 
 ### Hosts
 
-- Julian Tan (IBM Quantum Business Development)
+- Julian Tan (IBM Quantum Business Development): [LinkedIn](https://www.linkedin.com/in/julian-tan-25623111/)
 - Chiau Yi Foo (NUS QEP Programme Manager)
 
 ### Leads
 
 - Robert Loredo (Global Technical Ambassador Lead / Qiskit Advocate)
-- Michele Grossi (Technical Ambassador / Qiskit Advocate)
-- Junye Huang (Quantum Developer Advocate / Qiskit Advocate)
+- Michele Grossi (Technical Ambassador / Qiskit Advocate): [LinkedIn](https://www.linkedin.com/in/michele-grossi-42157486/), [Twitter](https://twitter.com/GrosQmichi)
+- Junye Huang (Quantum Developer Advocate / Qiskit Advocate): [LinkedIn](https://www.linkedin.com/in/huangjunye/), [Twitter](https://twitter.com/HuangJunye), [GitHub](https://github.com/HuangJunye)
 
 ### Instructors
 
