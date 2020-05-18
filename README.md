@@ -1,5 +1,5 @@
-# NUS-Qiskit-Workshop
-Materials for NUS Qiskit Workshop (18-20 May 2020)
+# NUS Qiskit Workshop
+Information for NUS Qiskit Workshop (18-20 May 2020) jointly organised by NUS QEP (Quantum Engineering Programme) and IBM.
 
 ## Workshop staff
 
