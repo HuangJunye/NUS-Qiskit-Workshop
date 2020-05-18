@@ -1,6 +1,32 @@
 # NUS-Qiskit-Workshop
 Materials for NUS Qiskit Workshop (18-20 May 2020)
 
+## Workshop staff
+
+### Hosts
+
+- Julian Tan (IBM Quantum Business Development)
+- Chiau Yi Foo (NUS QEP Programme Manager)
+
+### Leads
+
+- Robert Loredo (Global Technical Ambassador Lead / Qiskit Advocate)
+- Michele Grossi (Technical Ambassador / Qiskit Advocate)
+- Junye Huang (Quantum Developer Advocate / Qiskit Advocate)
+
+### Instructors
+
+- Luca Crippa (Quatum Skills Academy instructor)
+- Antonello Aita (Quantum Skills Academy instructor)
+- Najla Said (Quantum Skills Academy instructor)
+
+
+### Supports
+
+- Jing Yi Chan (IBM Quantum Ambassador)
+- Kate Marshall (IBM Quantum Ambassador)
+- Jennifer Harding (IBM Quantum Ambassador)
+
 ## Agenda
 
 ### Day 1
