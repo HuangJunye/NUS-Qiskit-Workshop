@@ -23,9 +23,9 @@ Information for Qiskit Workshop (18-20 May 2020) jointly organised by NUS QEP (Q
 
 ### Supports
 
-- Jing Yi Chan (IBM Quantum Ambassador)
+- Jing Yi Chan (IBM Quantum Ambassador): [LinkedIn](https://www.linkedin.com/in/jing-yi-chan-9153b06b/)
 - Kate Marshall (IBM Quantum Ambassador)
-- Jennifer Harding (IBM Quantum Ambassador)
+- Jennifer Harding (IBM Quantum Ambassador): [LinkedIn](https://www.linkedin.com/in/jennifer-harding-3b26b1149/)
 
 ## Agenda
 
