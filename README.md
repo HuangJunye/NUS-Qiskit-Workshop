@@ -10,14 +10,14 @@ Information for Qiskit Workshop (18-20 May 2020) jointly organised by NUS QEP (Q
 
 ### Leads
 
-- Robert Loredo (Global Technical Ambassador Lead / Qiskit Advocate)
-- Michele Grossi (Technical Ambassador / Qiskit Advocate): [LinkedIn](https://www.linkedin.com/in/michele-grossi-42157486/), [Twitter](https://twitter.com/GrosQmichi)
+- Robert Loredo (IBM Technical Ambassador Lead / Qiskit Advocate): [LinkedIn](https://www.linkedin.com/in/robertloredo/), [Twitter](https://twitter.com/robertloredo)
+- Michele Grossi (IBM Technical Ambassador / Qiskit Advocate): [LinkedIn](https://www.linkedin.com/in/michele-grossi-42157486/), [Twitter](https://twitter.com/GrosQmichi)
 - Junye Huang (Quantum Developer Advocate / Qiskit Advocate): [LinkedIn](https://www.linkedin.com/in/huangjunye/), [Twitter](https://twitter.com/HuangJunye), [GitHub](https://github.com/HuangJunye)
 
 ### Instructors
 
 - Luca Crippa (Quatum Skills Academy instructor): [LinkedIn](https://www.linkedin.com/in/luca-crippa-a29a98a2/), [Twitter](https://twitter.com/lucacrippa88)
-- Antonello Aita (Quantum Skills Academy instructor)
+- Antonello Aita (Quantum Skills Academy instructor): [LinkedIn](https://www.linkedin.com/in/antonello-aita/)
 - Najla Said (Quantum Skills Academy instructor): [LinkedIn](https://www.linkedin.com/in/najla-said/)
 
 
