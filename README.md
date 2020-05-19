@@ -16,7 +16,7 @@ Information for Qiskit Workshop (18-20 May 2020) jointly organised by NUS QEP (Q
 
 ### Instructors
 
-- Luca Crippa (Quatum Skills Academy instructor)
+- Luca Crippa (Quatum Skills Academy instructor): [LinkedIn](https://www.linkedin.com/in/luca-crippa-a29a98a2/), [Twitter](https://twitter.com/lucacrippa88)
 - Antonello Aita (Quantum Skills Academy instructor)
 - Najla Said (Quantum Skills Academy instructor)
 
