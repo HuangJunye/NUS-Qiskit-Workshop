@@ -71,3 +71,10 @@ Information for Qiskit Workshop (18-20 May 2020) jointly organised by NUS QEP (Q
 | 14:00 | 14:30 | 0:30     | Quantum Education                                                         | Junye      | [Qiskit textbook](https://qiskit.org/textbook/preface.html), [Qiskit YouTube](https://www.youtube.com/Qiskit), [Qiskit documentation](https://qiskit.org/documentation/), [Qiskit tutorials](https://quantum-computing.ibm.com/jupyter), [IQX Doc](https://quantum-computing.ibm.com/docs/), [Qiskit Medium](https://medium.com/@qiskit), [IBM Research Blog](https://www.ibm.com/blogs/research/category/quantcomp/) |
 | 14:30 | 15:30 | 1:00     | Open Discussion / Q&A                                                     | ALL        |                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 15:30 | 16:00 | 0:30     | Closing Remarks and Wrap-Up                                               | ALL        |                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                |
+
+
+## Additional resources
+
+- IBM Quantum Challenge
+    - [Challenge exercises](https://github.com/qiskit-community/may4_challenge_exercises)
+    - [Qiskit Live:  Quantum Challenge Solutions by the authors](https://www.youtube.com/watch?v=3oNXkCZ9odQ)
