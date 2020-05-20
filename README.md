@@ -75,6 +75,8 @@ Information for Qiskit Workshop (18-20 May 2020) jointly organised by NUS QEP (Q
 
 ## Additional resources
 
+- [IBM Quantum & Qiskit papers](https://airtable.com/shr5QnbLgraHRPx35/tblqDKDgMVdH6YGSE)
+
 - IBM Quantum Challenge
     - [Challenge exercises](https://github.com/qiskit-community/may4_challenge_exercises)
     - [Qiskit Live:  Quantum Challenge Solutions by the authors](https://www.youtube.com/watch?v=3oNXkCZ9odQ)
