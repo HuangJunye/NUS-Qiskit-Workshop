@@ -78,3 +78,7 @@ Information for Qiskit Workshop (18-20 May 2020) jointly organised by NUS QEP (Q
 - IBM Quantum Challenge
     - [Challenge exercises](https://github.com/qiskit-community/may4_challenge_exercises)
     - [Qiskit Live:  Quantum Challenge Solutions by the authors](https://www.youtube.com/watch?v=3oNXkCZ9odQ)
+
+- Quantum hardware review papers
+    - [Superconducting Qubits: Current State of Play](https://arxiv.org/abs/1905.13641)
+    - [A Quantum Engineer's Guide to Superconducting Qubits](https://arxiv.org/abs/1904.06560)
